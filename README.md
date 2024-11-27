@@ -35,31 +35,6 @@ Explore the wonders of the cosmos with **Universe Explorer 3D**—an interactive
 
 ---
 
-## 📂 Folder Structure
-
-```plaintext
-project/
-├── components/
-│   ├── ui/
-│   │   ├── button.tsx
-│   │   ├── alert-dialog.tsx
-│   ├── universe/
-│       ├── planet.tsx
-│       ├── orbit-line.tsx
-│       ├── info-panel.tsx
-├── lib/
-│   ├── constants/
-│   │   ├── planets.ts
-│   ├── utils.ts
-├── pages/
-│   ├── index.tsx
-├── public/
-│   ├── assets/
-├── styles/
-│   ├── globals.css` 
-
-```
-
 ## 🛠️ Setup and Installation
 
 1.  **Clone the repository:**
