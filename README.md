@@ -1,4 +1,4 @@
-# Universe Explorer 3D
+# Interactive Universe Explorer 
 
 This is a 3D universe exploration project maintained by **Shivangi Beniwal**.  
 Originally inspired by [iinaa-eimrit](https://github.com/iinaa-eimrit/Universe-Explorer-3D).
